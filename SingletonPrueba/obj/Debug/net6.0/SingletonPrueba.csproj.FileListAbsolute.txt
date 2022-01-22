@@ -1,0 +1,15 @@
+C:\Users\CompuStore\source\repos\SingletonPrueba\SingletonPrueba\bin\Debug\net6.0\SingletonPrueba.exe
+C:\Users\CompuStore\source\repos\SingletonPrueba\SingletonPrueba\bin\Debug\net6.0\SingletonPrueba.deps.json
+C:\Users\CompuStore\source\repos\SingletonPrueba\SingletonPrueba\bin\Debug\net6.0\SingletonPrueba.runtimeconfig.json
+C:\Users\CompuStore\source\repos\SingletonPrueba\SingletonPrueba\bin\Debug\net6.0\SingletonPrueba.dll
+C:\Users\CompuStore\source\repos\SingletonPrueba\SingletonPrueba\bin\Debug\net6.0\ref\SingletonPrueba.dll
+C:\Users\CompuStore\source\repos\SingletonPrueba\SingletonPrueba\bin\Debug\net6.0\SingletonPrueba.pdb
+C:\Users\CompuStore\source\repos\SingletonPrueba\SingletonPrueba\obj\Debug\net6.0\SingletonPrueba.csproj.AssemblyReference.cache
+C:\Users\CompuStore\source\repos\SingletonPrueba\SingletonPrueba\obj\Debug\net6.0\SingletonPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\source\repos\SingletonPrueba\SingletonPrueba\obj\Debug\net6.0\SingletonPrueba.AssemblyInfoInputs.cache
+C:\Users\CompuStore\source\repos\SingletonPrueba\SingletonPrueba\obj\Debug\net6.0\SingletonPrueba.AssemblyInfo.cs
+C:\Users\CompuStore\source\repos\SingletonPrueba\SingletonPrueba\obj\Debug\net6.0\SingletonPrueba.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\SingletonPrueba\SingletonPrueba\obj\Debug\net6.0\SingletonPrueba.dll
+C:\Users\CompuStore\source\repos\SingletonPrueba\SingletonPrueba\obj\Debug\net6.0\ref\SingletonPrueba.dll
+C:\Users\CompuStore\source\repos\SingletonPrueba\SingletonPrueba\obj\Debug\net6.0\SingletonPrueba.pdb
+C:\Users\CompuStore\source\repos\SingletonPrueba\SingletonPrueba\obj\Debug\net6.0\SingletonPrueba.genruntimeconfig.cache
